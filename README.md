@@ -26,7 +26,7 @@ I'm a passionate Web Developer with 2+ years of experience building scalable sol
 - [Task Management API](https://github.com/dibyam12/college-project): Secure .NET Core API with JWT authentication, integrated with React for real-time tracking.
 - [Fake News Detection](https://github.com/dibyam12/fake-news-detection): Exploring AI/ML models to identify misinformation—early steps toward applying ML in finance!
 - [Newsletter Mautic Plugin](https://github.com/dibyam12/Newsletter-Mautic-Plugin): Marketing automation features for enterprise TYPO3 CMS solutions.
-- [Loan Management System](https://github.com/dibyam12/college-project): Backend optimizations and smooth loan processing using TYPO3 and PHP.
+
 
 ---
 
